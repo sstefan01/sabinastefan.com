@@ -24,7 +24,7 @@ page-layout: full
     <h2>MANTIS</h2>
     <p class="project-full-name">Methylation profiling and Artificial Neural networks for Time-resolved Individualized Survival predictions</p>
     <p class="lead">A multimodal, biologically guided deep-learning framework for individualized survival and treatment-effect prediction in childhood brain tumors.</p>
-    <p>MANTIS integrates genome-wide DNA methylation, copy-number, survival, and clinical information using sparse connectivity priors and a discrete-time survival model. Rather than assigning patients to broad risk groups, it produces individualized, time-resolved outcome estimates and supports treatment-intensity stratification.</p>
+    <p>MANTIS integrates genome-wide DNA methylation, copy-number, and clinical information using sparse connectivity priors and a discrete-time survival model. Rather than assigning patients to broad risk groups, it produces individualized, time-resolved outcome estimates and supports treatment-intensity stratification.</p>
     <p>The public repository includes code for model training, inference with pretrained weights, evaluation, and visualization.</p>
     <nav class="project-links" aria-label="MANTIS links">
       <a href="https://github.com/sstefan01/methylation-survival">GitHub repository ↗</a>

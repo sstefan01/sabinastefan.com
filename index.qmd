@@ -47,7 +47,7 @@ page-layout: full
       <div>
         <h3><a href="research.html#mantis">MANTIS</a></h3>
         <p class="project-full-name">Methylation profiling and Artificial Neural networks for Time-resolved Individualized Survival predictions</p>
-        <p>A multimodal, biologically guided deep-learning framework that integrates DNA methylation, copy-number, survival, and clinical information for individualized outcome and treatment-effect prediction in childhood brain tumors.</p>
+        <p>A multimodal, biologically guided deep-learning framework that integrates DNA methylation, copy-number, and clinical information for individualized outcome and treatment-effect prediction in childhood brain tumors.</p>
         <p class="quiet-links"><a href="https://github.com/sstefan01/methylation-survival">code</a> · <a href="https://academic.oup.com/neuro-onc-peds/article/2/Supplement_1/wuag026.364/8714939">abstract</a></p>
       </div>
     </article>
