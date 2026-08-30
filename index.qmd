@@ -19,7 +19,7 @@ page-layout: full
     </div>
     <div class="intro-copy">
       <p>I’m a machine learning scientist and computational biologist developing AI methods for complex biomedical data. My work spans multimodal and self-supervised learning, with applications ranging from therapeutic discovery to precision medicine. I’m particularly interested in building models that can integrate diverse biological data, generalize across datasets and model systems, and produce insights that are both predictive and biologically meaningful.</p>
-      <p>I’m currently a Research Fellow at <a href="https://www.dana-farber.org/">Dana-Farber Cancer Institute</a>, with affiliations at Harvard Medical School and the Broad Institute.</p>
+      <p>I’m currently a Research Fellow at <a href="https://hovestadtlab.github.io/">Dana-Farber Cancer Institute</a>, with affiliations at Harvard Medical School and the Broad Institute.</p>
       <nav class="profile-links" aria-label="Profile links">
         <a href="mailto:sabinastefanoller@gmail.com">Email</a>
         <a href="https://github.com/sstefan01">GitHub</a>
