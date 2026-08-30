@@ -1,0 +1,50 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+    - research.qmd
+    - publications.qmd
+    - cv.qmd
+  resources:
+    - CNAME
+
+website:
+  title: "Sabina Stefan Oller"
+  site-url: "https://www.sabinastefan.com"
+  description: "Machine learning scientist and computational biologist developing AI methods for complex biomedical data."
+  open-graph: true
+  twitter-card: true
+  search: false
+  navbar:
+    pinned: false
+    collapse-below: md
+    left:
+      - href: research.qmd
+        text: Research
+      - href: https://scholar.google.com/citations?user=0oB4VnYAAAAJ
+        text: Google Scholar
+      - href: assets/Sabina_Stefan_Oller_CV_Data_Science.pdf
+        text: CV
+  page-footer:
+    left: "© 2026 Sabina Stefan Oller"
+    right: "[Email](mailto:sabinastefanoller@gmail.com) · [GitHub](https://github.com/sstefan01)"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    smooth-scroll: true
+    link-external-newwindow: true
+    include-in-header:
+      text: |
+        <meta name="keywords" content="Sabina Stefan Oller, Sabina Stefan, machine learning scientist, computational biology, multimodal learning, self-supervised learning, precision medicine, therapeutic discovery">
+    include-after-body:
+      text: |
+        <script>
+          document.querySelectorAll('a[href$="Sabina_Stefan_Oller_CV_Data_Science.pdf"]').forEach((link) => {
+            link.setAttribute('download', 'Sabina_Stefan_Oller_CV_Data_Science.pdf');
+          });
+        </script>
+
+editor: visual

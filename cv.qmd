@@ -1,0 +1,93 @@
+---
+title: "CV"
+description: "Concise CV for Sabina Stefan Oller, machine learning scientist and computational biologist."
+page-layout: full
+---
+
+```{=html}
+<main class="page-shell">
+  <header class="page-header">
+    <p class="section-label">Curriculum vitae</p>
+    <h1>Sabina Stefan Oller, PhD</h1>
+    <p>Machine learning scientist and computational biologist based in Boston, Massachusetts.</p>
+    <nav class="page-links" aria-label="Contact and profiles">
+      <a href="mailto:sabinastefanoller@gmail.com">Email ↗</a>
+      <a href="https://www.linkedin.com/in/sabina-stefan-2a9163a3">LinkedIn ↗</a>
+      <a href="https://github.com/sstefan01">GitHub ↗</a>
+      <a href="https://scholar.google.com/citations?user=0oB4VnYAAAAJ">Google Scholar ↗</a>
+    </nav>
+  </header>
+
+  <section class="cv-intro">
+    <div>
+      <p>I develop machine learning methods for complex biomedical data, with interests in multimodal and self-supervised learning, transferable representations, interpretable modeling, therapeutic discovery, and precision medicine.</p>
+    </div>
+    <div>
+      <p class="section-label">Core areas</p>
+      <p class="skills-line">Machine learning · deep learning · computational biology · multimodal representation learning · functional genomics · survival modeling · PyTorch · scientific Python</p>
+    </div>
+  </section>
+
+  <section class="cv-section">
+    <h2>Experience</h2>
+    <article class="cv-entry">
+      <div class="cv-date">2022–present</div>
+      <div>
+        <h3>Research Fellow</h3>
+        <p class="cv-place">Dana-Farber Cancer Institute · Boston, MA</p>
+        <p>Develop AI and machine-learning methods for precision oncology and therapeutic discovery, including multimodal learning for cancer dependency prediction and interpretable modeling for individualized outcome and treatment-effect estimation. Affiliations include Harvard Medical School and the Broad Institute of MIT and Harvard.</p>
+      </div>
+    </article>
+    <article class="cv-entry">
+      <div class="cv-date">2016–2022</div>
+      <div>
+        <h3>Graduate Researcher</h3>
+        <p class="cv-place">Brown University · Providence, RI</p>
+        <p>Developed deep-learning, simulation, and quantitative-imaging methods for measuring and longitudinally tracking cerebral microvascular structure and function.</p>
+      </div>
+    </article>
+    <article class="cv-entry">
+      <div class="cv-date">2016</div>
+      <div>
+        <h3>Research Intern</h3>
+        <p class="cv-place">International Prevention Research Institute</p>
+      </div>
+    </article>
+  </section>
+
+  <section class="cv-section">
+    <h2>Education</h2>
+    <article class="cv-entry">
+      <div class="cv-date">2022</div>
+      <div><h3>PhD, Biomedical Engineering</h3><p class="cv-place">Brown University</p></div>
+    </article>
+    <article class="cv-entry">
+      <div class="cv-date">2015</div>
+      <div><h3>BSc (Med) Honours, Bioinformatics</h3><p class="cv-place">University of Cape Town</p></div>
+    </article>
+    <article class="cv-entry">
+      <div class="cv-date">2015</div>
+      <div><h3>BSc, Physics and Applied Mathematics</h3><p class="cv-place">University of Cape Town</p></div>
+    </article>
+  </section>
+
+  <section class="cv-section">
+    <h2>Selected work</h2>
+    <article class="cv-entry">
+      <div class="cv-date">2026</div>
+      <div><h3>AI-based Precision Prognostics and Therapy Personalization for Childhood Brain Tumors</h3><p class="cv-place">MANTIS: Methylation profiling and Artificial Neural networks for Time-resolved Individualized Survival predictions · public PyTorch implementation and pretrained workflow</p></div>
+    </article>
+    <article class="cv-entry">
+      <div class="cv-date">2023</div>
+      <div><h3>Near-lifespan longitudinal tracking of brain microvascular morphology, topology, and flow</h3><p class="cv-place">Nature Communications</p></div>
+    </article>
+    <article class="cv-entry">
+      <div class="cv-date">2022</div>
+      <div><h3>Deep Learning and Simulation for the Estimation of Red Blood Cell Flux</h3><p class="cv-place">Frontiers in Neuroscience</p></div>
+    </article>
+    <p class="section-link"><a href="publications.html">View selected publications →</a></p>
+  </section>
+
+  <p class="content-note">This web CV is intentionally concise. A downloadable PDF can be added when the current CV file is available.</p>
+</main>
+```

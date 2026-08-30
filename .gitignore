@@ -1,0 +1,8 @@
+/.quarto/
+/_site/
+/.DS_Store
+/CONTENT_AUDIT.md
+/assets/sabina-stefan-headshot.jpg
+
+
+**/*.quarto_ipynb

@@ -1,0 +1,85 @@
+---
+title: "Research / Projects"
+description: "Selected work in multimodal learning, precision oncology, therapeutic discovery, and quantitative biomedical imaging."
+page-layout: full
+---
+
+```{=html}
+<main class="page-shell">
+  <header class="page-header">
+    <p class="section-label">Research / Projects</p>
+    <h1>Machine learning for biological translation</h1>
+    <p>My current research focuses on multimodal and self-supervised learning for therapeutic discovery and precision medicine. I work with tumor molecular profiles, functional-genomic screens, and drug-response data to predict cancer dependencies and prioritize therapeutic targets.</p>
+  </header>
+
+  <section class="content-section" id="multimodal-ai">
+    <p class="section-label">Current research</p>
+    <h2>Multimodal AI for therapeutic discovery</h2>
+    <p>Functional-genomic screens reveal which genes cancer cells depend on, while pharmacologic screens measure how they respond to treatment. Because these experiments are performed primarily in cell lines and other model systems, translating their results to patient tumors remains a central challenge. I develop multimodal learning approaches that combine these experimental measurements with tumor molecular profiles to identify vulnerabilities in patient tumors and prioritize therapeutic targets.</p>
+
+  </section>
+
+  <section class="content-section" id="mantis">
+    <p class="section-label">Featured public project</p>
+    <h2>MANTIS</h2>
+    <p class="project-full-name">Methylation profiling and Artificial Neural networks for Time-resolved Individualized Survival predictions</p>
+    <p class="lead">A multimodal, biologically guided deep-learning framework for individualized survival and treatment-effect prediction in childhood brain tumors.</p>
+    <p>MANTIS integrates genome-wide DNA methylation, copy-number, survival, and clinical information using sparse connectivity priors and a discrete-time survival model. Rather than assigning patients to broad risk groups, it produces individualized, time-resolved outcome estimates and supports treatment-intensity stratification.</p>
+    <p>The public repository includes code for model training, inference with pretrained weights, evaluation, and visualization.</p>
+    <nav class="project-links" aria-label="MANTIS links">
+      <a href="https://github.com/sstefan01/methylation-survival">GitHub repository ↗</a>
+      <a href="https://zenodo.org/records/20818365">Data and model assets ↗</a>
+      <a href="https://academic.oup.com/neuro-onc-peds/article/2/Supplement_1/wuag026.364/8714939">2026 abstract ↗</a>
+    </nav>
+  </section>
+
+  <section class="content-section" id="earlier-work">
+    <p class="section-label">Earlier work</p>
+    <h2>Quantitative imaging and physiological prediction</h2>
+    <p>My doctoral and earlier research combined deep learning, signal processing, simulation, and optical imaging to measure biological systems more accurately.</p>
+
+    <div class="project-list">
+      <article class="project-row">
+        <div class="project-type">Longitudinal imaging</div>
+        <div>
+          <h3>Near-lifespan tracking of brain microvasculature</h3>
+          <p>Integrated optical imaging and automated analysis to quantify vascular morphology, topology, and flow over seven months.</p>
+          <a href="https://www.nature.com/articles/s41467-023-38609-z">Nature Communications ↗</a>
+        </div>
+      </article>
+      <article class="project-row">
+        <div class="project-type">Deep learning + simulation</div>
+        <div>
+          <h3>Red blood cell flux estimation</h3>
+          <p>Trained a one-dimensional convolutional neural network on simulated time series to estimate capillary red blood cell flux from optical coherence tomography.</p>
+          <a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2022.835773/full">Frontiers in Neuroscience ↗</a>
+        </div>
+      </article>
+      <article class="project-row">
+        <div class="project-type">3D image analysis</div>
+        <div>
+          <h3>OCT microangiogram analysis toolbox</h3>
+          <p>Developed deep-learning methods for automated enhancement, segmentation, and graph-based vascular quantification.</p>
+          <a href="https://doi.org/10.1364/BOE.405763">Biomedical Optics Express ↗</a> · <a href="https://github.com/sstefan01/OCTA_microangiogram_properties">GitHub ↗</a>
+        </div>
+      </article>
+      <article class="project-row">
+        <div class="project-type">Quantitative imaging</div>
+        <div>
+          <h3>Confocal profile and focal-plane mapping</h3>
+          <p>Created a method to estimate tilted or curved focal planes for more accurate OCT attenuation-coefficient mapping.</p>
+          <a href="https://doi.org/10.1364/BOE.9.005084">Biomedical Optics Express ↗</a>
+        </div>
+      </article>
+      <article class="project-row">
+        <div class="project-type">Clinical signal processing</div>
+        <div>
+          <h3>Consciousness indexing with resting-state EEG</h3>
+          <p>Combined quantitative EEG features and machine learning for consciousness assessment and outcome prediction.</p>
+          <a href="https://doi.org/10.1007/s10548-018-0643-x">Brain Topography ↗</a>
+        </div>
+      </article>
+    </div>
+  </section>
+</main>
+```

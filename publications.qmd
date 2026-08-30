@@ -1,0 +1,100 @@
+---
+title: "Publications"
+description: "Selected publications by Sabina Stefan Oller, published as Sabina Stefan, in machine learning, computational oncology, biomedical imaging, and neurophysiology."
+page-layout: full
+---
+
+```{=html}
+<main class="page-shell">
+  <header class="page-header">
+    <p class="section-label">Publications</p>
+    <h1>Selected publications</h1>
+    <p>Work in precision AI for oncology, quantitative biomedical imaging, and physiological signal analysis.</p>
+    <nav class="page-links" aria-label="Publication profiles">
+      <a href="https://scholar.google.com/citations?user=0oB4VnYAAAAJ">Google Scholar ↗</a>
+      <a href="https://github.com/sstefan01">GitHub ↗</a>
+    </nav>
+  </header>
+
+  <div class="publications-list">
+    <section class="publication-group">
+      <div class="publication-year">2026</div>
+      <div>
+        <article class="publication">
+          <h2>AI-based Precision Prognostics and Therapy Personalization for Childhood Brain Tumors</h2>
+          <p class="citation"><strong>Sabina Stefan</strong> et al. · <em>Neuro-Oncology Pediatrics</em>, conference abstract</p>
+          <p>MANTIS—Methylation profiling and Artificial Neural networks for Time-resolved Individualized Survival predictions—is a multimodal framework integrating molecular, survival, and clinical information for individualized outcome prediction and treatment-intensity stratification.</p>
+          <div class="publication-links"><a href="https://academic.oup.com/neuro-onc-peds/article/2/Supplement_1/wuag026.364/8714939">Abstract ↗</a><a href="https://github.com/sstefan01/methylation-survival">Code ↗</a></div>
+        </article>
+      </div>
+    </section>
+
+    <section class="publication-group">
+      <div class="publication-year">2025</div>
+      <div>
+        <article class="publication">
+          <h2>AI-based Personalized Survival Predictions for Ependymoma Patients Using DNA Methylation Profiling</h2>
+          <p class="citation">Amelie Amann, <strong>Sabina Stefan</strong>, et al. · <em>Brain and Spine</em> 5, 105331</p>
+          <div class="publication-links"><a href="https://doi.org/10.1016/j.bas.2025.105331">Article ↗</a></div>
+        </article>
+      </div>
+    </section>
+
+    <section class="publication-group">
+      <div class="publication-year">2023</div>
+      <div>
+        <article class="publication">
+          <h2>Near-lifespan longitudinal tracking of brain microvascular morphology, topology, and flow in male mice</h2>
+          <p class="citation">Konrad W. Walek, <strong>Sabina Stefan</strong>, et al. · <em>Nature Communications</em> 14, 2982</p>
+          <div class="publication-links"><a href="https://doi.org/10.1038/s41467-023-38609-z">Article ↗</a></div>
+        </article>
+        <article class="publication">
+          <h2>Investigating the correlation between early vascular alterations and cognitive impairment in Alzheimer’s disease in mice with SD-OCT</h2>
+          <p class="citation">Jang-Hoon Lee, <strong>Sabina Stefan</strong>, et al. · <em>Biomedical Optics Express</em></p>
+          <div class="publication-links"><a href="https://opg.optica.org/boe/issue.cfm?issue=4&volume=14">Journal issue ↗</a></div>
+        </article>
+      </div>
+    </section>
+
+    <section class="publication-group">
+      <div class="publication-year">2022</div>
+      <div>
+        <article class="publication">
+          <h2>Deep Learning and Simulation for the Estimation of Red Blood Cell Flux With Optical Coherence Tomography</h2>
+          <p class="citation"><strong>Sabina Stefan</strong>, Anna Kim, Paul J. Marchand, Frederic Lesage, and Jonghwan Lee · <em>Frontiers in Neuroscience</em> 16</p>
+          <div class="publication-links"><a href="https://doi.org/10.3389/fnins.2022.835773">Article ↗</a><a href="https://github.com/sstefan01/RBCflux">Code ↗</a></div>
+        </article>
+      </div>
+    </section>
+
+    <section class="publication-group">
+      <div class="publication-year">2020</div>
+      <div>
+        <article class="publication">
+          <h2>Deep learning toolbox for automated enhancement, segmentation, and graphing of cortical optical coherence tomography microangiograms</h2>
+          <p class="citation"><strong>Sabina Stefan</strong> and Jonghwan Lee · <em>Biomedical Optics Express</em> 11(12), 7325–7342</p>
+          <div class="publication-links"><a href="https://doi.org/10.1364/BOE.405763">Article ↗</a><a href="https://github.com/sstefan01/OCTA_microangiogram_properties">Code ↗</a></div>
+        </article>
+      </div>
+    </section>
+
+    <section class="publication-group">
+      <div class="publication-year">2018</div>
+      <div>
+        <article class="publication">
+          <h2>Determination of confocal profile and curved focal plane for OCT mapping of the attenuation coefficient</h2>
+          <p class="citation"><strong>Sabina Stefan</strong>, Ki-Soo Jeong, Collin Polucha, Nikos Tapinos, Steven A. Toms, and Jonghwan Lee · <em>Biomedical Optics Express</em> 9(10), 5084–5099</p>
+          <div class="publication-links"><a href="https://doi.org/10.1364/BOE.9.005084">Article ↗</a></div>
+        </article>
+        <article class="publication">
+          <h2>Consciousness Indexing and Outcome Prediction with Resting-State EEG in Severe Disorders of Consciousness</h2>
+          <p class="citation"><strong>Sabina Stefan</strong> et al. · <em>Brain Topography</em> 31, 848–862</p>
+          <div class="publication-links"><a href="https://doi.org/10.1007/s10548-018-0643-x">Article ↗</a></div>
+        </article>
+      </div>
+    </section>
+  </div>
+
+  <p class="content-note">This is a selected list. See Google Scholar for the most complete and current publication record.</p>
+</main>
+```
