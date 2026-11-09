@@ -21,10 +21,10 @@ page-layout: full
       <div class="publication-year">2026</div>
       <div>
         <article class="publication">
-          <h2>AI-based Precision Prognostics and Therapy Personalization for Childhood Brain Tumors</h2>
-          <p class="citation"><strong>Sabina Stefan</strong> et al. · <em>Neuro-Oncology Pediatrics</em>, conference abstract</p>
-          <p>MANTIS—Methylation profiling and Artificial Neural networks for Time-resolved Individualized Survival predictions—is a multimodal framework integrating molecular, survival, and clinical information for individualized outcome prediction and treatment-intensity stratification.</p>
-          <div class="publication-links"><a href="https://academic.oup.com/neuro-onc-peds/article/2/Supplement_1/wuag026.364/8714939">Abstract ↗</a><a href="https://github.com/sstefan01/methylation-survival">Code ↗</a></div>
+          <h2>AI-based precision prognostics and therapy personalization for childhood brain tumors</h2>
+          <p class="citation"><strong>Sabina Stefan</strong> et al. · <em>Nature Genetics</em>, November 3, 2026</p>
+          <p>MANTIS—Methylation profiling and Artificial Neural networks for Time-dependent Individualized Survival predictions—is a multimodal framework integrating molecular, survival, and clinical information for individualized outcome prediction and treatment-intensity stratification.</p>
+          <p class="entry-links"><a href="https://www.nature.com/articles/s41588-026-02815-4">Paper</a><span aria-hidden="true">·</span><a href="https://www.nature.com/articles/s41588-026-02816-3">Research briefing</a><span aria-hidden="true">·</span><a href="https://www.dana-farber.org/newsroom/news-releases/2026/ai-may-help-tailor-treatment-for-childhood-brain-tumors">DFCI news</a><span aria-hidden="true">·</span><a href="https://github.com/sstefan01/methylation-survival">Code</a><span aria-hidden="true">·</span><a href="https://academic.oup.com/neuro-onc-peds/article/2/Supplement_1/wuag026.364/8714939">Conference abstract</a></p>
         </article>
       </div>
     </section>

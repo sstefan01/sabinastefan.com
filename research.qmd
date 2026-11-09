@@ -18,9 +18,11 @@ page-layout: full
 
   <section class="research-section" id="mantis">
     <h2>MANTIS</h2>
-    <p class="project-name">Methylation profiling and Artificial Neural networks for Time-resolved Individualized Survival predictions</p>
+    <p class="project-name">Methylation profiling and Artificial Neural networks for Time-dependent Individualized Survival predictions</p>
     <p class="section-summary">A multimodal, biologically guided deep-learning framework for individualized survival and treatment-effect prediction in childhood brain tumors.</p>
     <p>MANTIS integrates genome-wide DNA methylation, copy-number, and clinical information using sparse connectivity priors and a discrete-time survival model. Rather than assigning patients to broad risk groups, it produces individualized, time-resolved outcome estimates and supports treatment-intensity stratification.</p>
+    <p><a href="https://www.nature.com/articles/s41588-026-02815-4">AI-based precision prognostics and therapy personalization for childhood brain tumors</a> · <em>Nature Genetics</em>, November 3, 2026.</p>
+    <p class="entry-links"><a href="https://www.nature.com/articles/s41588-026-02816-3">Research briefing</a><span aria-hidden="true">·</span><a href="https://www.dana-farber.org/newsroom/news-releases/2026/ai-may-help-tailor-treatment-for-childhood-brain-tumors">DFCI news</a></p>
     <p>The public repository includes code for model training, inference with pretrained weights, evaluation, and visualization.</p>
     <p class="entry-links"><a href="https://github.com/sstefan01/methylation-survival">GitHub repository</a><span aria-hidden="true">·</span><a href="https://zenodo.org/records/20818365">Data and model assets</a><span aria-hidden="true">·</span><a href="https://academic.oup.com/neuro-onc-peds/article/2/Supplement_1/wuag026.364/8714939">2026 abstract</a></p>
   </section>
